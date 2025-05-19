@@ -12,11 +12,7 @@ This module lets you link `ObservableScriptableObject` fields with ECS component
 ReaCS.DOTS/
 ├── Runtime/
 │   ├── ReaCSEntityLinker.cs         # SO ↔ Entity bridge
-│   ├── SyncECSToSOSystem.cs        # Generic ECS → SO sync system
 │   └── DOTSStartupUtils.cs         # (optional) helpers for linking
-├── Documentation~/
-│   ├── DOTS_Integration.md         # Setup & Usage Guide
-│   └── SampleSystems.md            # Examples for ECS systems
 ├── package.json                    # Unity package manifest
 ├── README.md                       # This file
 └── Tests/                          # (Optional test content)
