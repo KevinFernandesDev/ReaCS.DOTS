@@ -31,11 +31,11 @@ ReaCS.DOTS/
 
 ## 🚀 Getting Started
 
-1. Install [ReaCS](https://github.com/yourusername/ReaCS) in your project
+1. Install [ReaCS](https://github.com/kevinfernandesdev/ReaCS) in your project
 2. Install ReaCS.DOTS via Git UPM:
 
 ```json
-"com.yourcompany.reacs.dots": "https://github.com/yourusername/ReaCS.DOTS.git"
+"com.yourcompany.reacs.dots": "https://github.com/kevinfernandesdev/ReaCS.DOTS.git"
 ```
 
 3. Link your SO to an entity:
