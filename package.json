@@ -1,0 +1,15 @@
+{
+  "name": "com.kevinfernandesdev.reacs.dots",
+  "displayName": "ReaCS.DOTS",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Optional DOTS integration layer for ReaCS. Mirrors ObservableScriptableObject data into ECS components and syncs bidirectionally.",
+  "dependencies": {
+    "com.unity.entities": "1.2.0",
+    "com.kevinfernandesdev.reacs": "1.0.0"
+  },
+  "author": {
+    "name": "Kevin Fernandes",
+    "url": "https://github.com/kevinfernandesdev/ReaCS.DOTS"
+  }
+}
